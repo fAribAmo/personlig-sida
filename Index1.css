@@ -23,10 +23,6 @@ img {
   width: 100%;
   height: auto;
 }
-footer {
-  margin-top: 0em;
-  padding: 10px;
-}
 
 /*nav*/
 nav {
@@ -58,26 +54,25 @@ li a:hover {
 
 /*stil*/
 
-*{
-    font-weight: lighter;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0em;
+* {
+  font-weight: lighter;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   
-    
 }
-h1{
-    text-align: center;
+h1, h2, p {
+  text-align: center;
 }
-header{
-    height: 30vh;
-    background-color: grey;
-}
-main{
-    height: 80vh;
-    background-color: darkgrey;
-}
-footer{
-    height: 20vh;
-    background-color: lightgray;
-}
+header {
+  height: 30vh;
+  background-color:lightgray;
+  margin:0em;
 
+}
+main {
+  height: 60vh;
+  background-color:rgb(193, 173, 194);
+}
+footer {
+  height: 10vh;
+  background-color: lightgray;
+}
