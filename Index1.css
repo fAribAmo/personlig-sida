@@ -1,7 +1,4 @@
-/* Jag använder column för att det ska vara enklare att dela olika div
- Med row classen menar jag att allt i den diven ska ligga i rad horisontellt*/
 
-/*struktur*/
 body {
   overflow-x: hidden;
   box-sizing: border-box;

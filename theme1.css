@@ -26,8 +26,9 @@ body {
 /**/
 
 img {
-  width: 100%;
-  height: auto;
+  width: 90%;
+  height:auto;
+  
 }
 footer {
   margin-top: 0em;
@@ -97,4 +98,5 @@ section {
 
 p{
     padding: 20px;
+    
 }
